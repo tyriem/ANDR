@@ -1,2 +1,2 @@
 # ANDR
-GitHub Android COmmits
+GitHub Android Commits
